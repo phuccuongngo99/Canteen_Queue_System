@@ -1,4 +1,4 @@
-# Canteen Queue Syste
+# Canteen Queue System
 
 ## Installation
 1. Set up Raspberry Pi 3 with Pi Camera running Raspian OS.
