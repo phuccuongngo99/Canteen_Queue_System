@@ -1,0 +1,54 @@
+.button {
+	background-color:#63a9f0;
+	-moz-border-radius:52px;
+	-webkit-border-radius:52px;
+	border-radius:52px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:56px;
+	font-weight:bold;
+	padding:34px 62px;
+	text-decoration:none;
+	text-shadow:0px 2px 100px #528ecc;
+}
+.myButton:hover {
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bg {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.p {
+  width: 500px;
+  height: 100px;
+  background-color: #000000;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+div p {
+  font-size: 60px;
+  font-weight:bold;
+}
